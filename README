@@ -1,10 +1,11 @@
 # muprsvps
 
-FIXME: write description
+A visualization for Meetup's streaming RSVP API, though it doesn't read
+in real time, but instead reads a saved file.
 
 ## Usage
 
-FIXME: write
+Pull some RSVPs into a file using curl, and then run this with that file.
 
 ## License
 
